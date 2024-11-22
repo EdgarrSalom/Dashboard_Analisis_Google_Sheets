@@ -1,2 +1,12 @@
 # Dashboard y Análisis de Datos
-Análisis exploratorio de un conjunto de datos, elaboración de un dashboard en Excel y informe explicativo del análisis.
+
+## Objetivo del proyecto
+
+Realizar un análisis exploratorio de un conjunto de datos de elección propia y elaborar un dashboard en Google Sheets.
+
+## Requisitos 
+
+- Transformación y limpieza de los datos.
+- Análisis descriptivo de los datos.
+- Dashboard.
+- Informe explicativo del análisis.
