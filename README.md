@@ -22,7 +22,8 @@ Tu repositorio tiene que constar, al menos, de los siguientes archivos/carpetas:
 
 ## Origen de los datos
 
-Hemos obtenido los datos des de https://www.kaggle.com/, en particular hemos elegido los datos sobre Remote Work & Mental Health (https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health)
+Hemos obtenido los datos des de https://www.kaggle.com/, en particular hemos elegido los datos sobre Remote Work & Mental Health 
+(https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health)
 
 ## Objetivo del conjunto de datos
 
