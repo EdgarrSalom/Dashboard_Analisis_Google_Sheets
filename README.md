@@ -68,3 +68,20 @@ Clasificamos las diferentes columnas en alfanuméricas, numéricas, categóricas
 - **Booleanas**: Access_to_Mental_Health_Resources.(1)
 
 Hemos incluido como columnas categóricas ordinales aquellas que representan una autoevaluación realizada por el empleado donde la respuesta puede ser un valor entero del rango (1,5), es decir,  1-2-3-4-5 en el cual el valor 1 representa el valor más bajo y el 5 el más alto. 
+
+## Análisis de los datos faltantes y nulos
+
+Nuestro conjunto aparece limpio y transformado, a primera vista no vemos que haya datos faltantes y todos los datos parecen estar en el formato adecuado. 
+
+Las únicas columnas que podrian contener nulos son:
+
+- **Mental_Health_Condition**
+- **Physical_Activity**
+
+Realizando un análisis más exhautivo vemos que el dato "None" que aparece en ellas representaa que no tiene ninguna condición de salud mental reportada en la primera de ellas y que no realiza ninguna actividad física en la segunda, no que sean datos nulos o faltantes con lo que concluimos que no tenemos datos nulos en nuestro conjunto.
+
+Utilizamos también las estadísticas de columna para comprovar que las columnas de nuestro conjunto no tienen celdas vacías.
+
+## Dashboard
+
+## Conclusiones
