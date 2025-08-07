@@ -84,4 +84,51 @@ Utilizamos también las estadísticas de columna para comprovar que las columnas
 
 ## Dashboard
 
-## Conclusiones
+![Dashboard bienestar mental en la era del trabajo a distancia](Dashboard.png)
+
+
+## 1. Introducción
+
+En los últimos años, el teletrabajo se ha convertido en una modalidad laboral adoptada a nivel mundial. Si bien ha traído ventajas como mayor flexibilidad o reducción de desplazamientos, también ha generado interrogantes sobre su impacto en el bienestar mental de los empleados.
+
+Este dashboard tiene como objetivo analizar el impacto del trabajo a distancia en el equilibrio entre la vida laboral y personal, los niveles de estrés y las condiciones de salud mental, como la ansiedad, el burnout o la depresión. El análisis se ha llevado a cabo a partir de un conjunto de datos previamente depurado y sin valores nulos, que abarca diversas regiones, industrias y modalidades de trabajo.
+
+Aunque los datos presentan una distribución relativamente uniforme y parecen generados de forma sintética, el análisis permite identificar ciertos patrones y tendencias que pueden resultar relevantes. A pesar de estas limitaciones, se han extraído conclusiones significativas que ofrecen una visión general del bienestar mental en el contexto del trabajo remoto.
+
+## 2. Descripción del Dashboard
+
+El dashboard se estructura en los siguientes bloques visuales:
+
+- **Indicadores clave (KPIs):**
+  - **Promedio equilibrio vida-trabajo**: 2,98 (en una escala del 1 al 5).
+  - **Empleados con alguna condición de salud mental reportada**: 76,08%.
+
+- **Gráficos principales:**
+  - **Promedio de equilibrio vida-trabajo por región**: revela ligeras variaciones entre continentes.
+  - **Nivel de estrés por industria**: gráfico apilado que muestra la distribución de estrés (alto, medio y bajo) en cada sector.
+  - **Nivel de estrés según modalidad de trabajo** (remoto, híbrido, presencial): comparativa entre los diferentes formatos.
+  - **Condiciones de salud mental**: gráfico de anillo con distribución de ansiedad, burnout, depresión y personas sin ninguna condición diagnosticada.
+
+- **Filtros interactivos:** permiten segmentar por región, industria, rol laboral y género para facilitar el análisis personalizado.
+
+## 3. Análisis del Dashboard
+
+- **Alta incidencia de condiciones de salud mental:** Más del 76% de los empleados reportan sufrir alguna condición (ansiedad, burnout o depresión).
+
+- **Burnout como principal condición:** Es la más revalente en el gráfico circular, ya que la desconexión digital insuficiente y la sobrecarga en el teletrabajo se relacionda directamente con este síndrome.
+
+- **Diferencias regionales leves:** Asia muestra el mejor promedio de equilibrio vida-trabajo (3,04), seguida por Europa (3,01). África presenta el promedio más bajo (2,94), aunque las diferencias son muy pequeñas.
+
+- **Finanzas y Sanidad lideran la lista de las industrias con el mayor nivel de estrés:** Ambas destacan por tener la mayor proporción de empleados con niveles de estrés alto: Finanzas con un 35,6 % y Sanidad con un 35,3 %. Educación y Retail también presentan porcentajes elevados, cercanos al 34 %. Aunque las diferencias entre sectores no son muy marcadas, todas las industrias muestran niveles de estrés superiores al 31 %.
+
+- **Modalidad Onsite ligeramente menos estresante:** El trabajo presencial presenta una proporción ligeramente superior de personas con estrés bajo y ligeremente inferior de personas con estrés alto en comparación con híbrido o remoto.
+
+## 4. Conclusiones
+
+A partir del análisis realizado en este dashboard, se pueden extraer varias observaciones sobre el impacto del trabajo a distancia en la salud mental de los trabajadores. No obstante, es importante subrayar que los datos utilizados presentan una distribución bastante uniforme entre categorías, y podrían haber sido generados de manera sintética o artificial. Esto limita la capacidad de generalizar los resultados a contextos reales. Además, hay que tener en cuenta que la muestra no es especialmente grande.
+
+Lo más destacable del análisis es que, aunque el trabajo a distancia puede mejorar el equilibrio entre la vida personal y laboral en ciertos contextos, no está exento de riesgos para la salud mental. De hecho, más del 75 % de los empleados han reportado haber sufrido o estar pasando por alguna condición relacionada con la salud mental, siendo el burnout la más destacada.
+
+Por otra parte, el estrés continúa siendo un factor significativo en todas las modalidades de trabajo y, aunque es necesario y habitual en la mayoría de las situaciones laborales, tanto los trabajadores como las empresas deberían apostar por reducirlo.
+
+Por último, el conjunto de datos no aporta evidencias suficientes para destacar alguna región o industria sobre las demás, ya que todas presentan métricas similares.
