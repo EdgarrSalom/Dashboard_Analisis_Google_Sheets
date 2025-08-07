@@ -2,28 +2,15 @@
 
 ## Objetivo del proyecto
 
-Realizar un análisis exploratorio de un conjunto de datos de elección propia y elaborar un dashboard en Google Sheets.
+Realizar un análisis exploratorio de un conjunto de datos de elección propia y elaborar un dashboard en Google Sheets, adjuntamos url de acceso a la hoja de cálculo donde podemos encontrar los datos cargados, su análisis y el Dashboard.
 
-## Requisitos 
-
-- Transformación y limpieza de los datos.
-- Análisis descriptivo de los datos.
-- Dashboard.
-- Informe explicativo del análisis.
-
-## Requisitos del Github
-
-Tu repositorio tiene que constar, al menos, de los siguientes archivos/carpetas:
-
-- Archivo README.md, que recoja los pasos seguidos durante el proyecto y el informe de tú análisis.
-- Si usas Google Sheets, la url de acceso a esa hoja de cálculo compartida para cualquier persona con el enlace en modo lectura.
-- Un archivo que contenga los datos originales con los que se va a trabajar: un csv, un excel o una url a un Google Sheets. Y el origen de los mismos si fuera necesario ( la url a través de la cual has llegado a los datos ).
-
+- https://docs.google.com/spreadsheets/d/1XjWav6Xs8AFvey4UyPdAU2Bva-L7Gld-HOEAwhgX7yA/edit?usp=sharing
 
 ## Origen de los datos
 
-Hemos obtenido los datos des de https://www.kaggle.com/, en particular hemos elegido los datos sobre Remote Work & Mental Health 
-(https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health)
+Hemos obtenido los datos des de https://www.kaggle.com/, en particular hemos elegido los datos sobre Remote Work & Mental Health:
+
+- https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health
 
 ## Objetivo del conjunto de datos
 
@@ -132,3 +119,10 @@ Lo más destacable del análisis es que, aunque el trabajo a distancia puede mej
 Por otra parte, el estrés continúa siendo un factor significativo en todas las modalidades de trabajo y, aunque es necesario y habitual en la mayoría de las situaciones laborales, tanto los trabajadores como las empresas deberían apostar por reducirlo.
 
 Por último, el conjunto de datos no aporta evidencias suficientes para destacar alguna región o industria sobre las demás, ya que todas presentan métricas similares.
+
+## Próximos pasos
+Sería interesante ampliar este estudio utilizando una muestra más grande y con datos reales, que reflejen mejor la diversidad de situaciones actuales. El conjunto de datos analiza una temática muy relevante que seguirá presente en los próximos años o incluso décadas. Cuanto antes aprendamos a encontrar un mejor equilibrio entre la vida personal y laboral en la era de la digitalización y el trabajo a distancia, más preparada y saludable será nuestra sociedad. 
+
+## Autores
+
+- Edgar Salom (https://github.com/EdgarrSalom)
